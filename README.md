@@ -1,3 +1,6 @@
+Веб-додаток,  для проходження і створення нових тестів, написаний на класових-react компонентах. Використовував React, Redux, AJAX, Bootstrap, CRA, NPM, Firebase. 
+Посилання: https://react-quiz-f4d94.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
